@@ -26,14 +26,16 @@ Bem-vindo ao repositório de algoritmos e estruturas de dados implementados em J
 4. [Contribuindo](#contribuindo)
 5. [Licença](#licença)
 
-## Introdução
+## Referências
 
-Este repositório contém implementações em JavaScript de vários algoritmos e estruturas de dados comumente usados em ciência da computação e desenvolvimento de software. Cada implementação é acompanhada por explicações sobre o algoritmo/estrutura de dados e links para leituras adicionais para um entendimento mais profundo.
+Estarei constantemente atualizando aqui as referências conforme for utilizando as fontes:
 
-## Contribuindo
+1. [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
+2. [Hackerrank](https://www.hackerrank.com/)
 
-Contribuições para este repositório são bem-vindas! Seja para implementar um novo algoritmo/estrutura de dados, melhorar o código existente ou corrigir um erro, sinta-se à vontade para contribuir abrindo um pull request.
 
-## Licença
+## Contribuição ✨
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Contribuições para este repositório são bem-vindas! Leia como contribuir clicando [aqui](https://github.com/jessrbl/Algoritmos-e-estruturas-de-dados/blob/main/CONTRIBUTING.md) e a [licença](https://github.com/jessrbl/Algoritmos-e-estruturas-de-dados/blob/main/LICENSE). Juntos alcançaremos coisas incríveis!
+
+
