@@ -54,7 +54,7 @@ ___
 
 ___
 
-<h2> ✨ Author</h2>
+<h2> ✨ Autor</h2>
 
 <table>
   <tr>
