@@ -6,14 +6,15 @@ Welcome to the repository of algorithms and data structures implemented in JavaS
 
 ## Table of Contents
 
-1. [Algorithms](#algorithms)
+1. [Introduction](#introduction)
+2. [Algorithms](#algorithms)
     - [Sorting Algorithms](#sorting-algorithms)
     - [Search Algorithms](#search-algorithms)
     - [Graph Algorithms](#graph-algorithms)
     - [String Algorithms](#string-algorithms)
     - [Dynamic Programming](#dynamic-programming)
     - [Other Algorithms](#other-algorithms)
-2. [Data Structures](#data-structures)
+3. [Data Structures](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stacks](#stacks)
@@ -24,18 +25,29 @@ Welcome to the repository of algorithms and data structures implemented in JavaS
     - [Heaps](#heaps)
     - [Trie](#trie)
     - [Other Structures](#other-structures)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ---
 
-## Contributing
+## References
 
-Contributions to this repository are welcome! Whether it's implementing a new algorithm/data structure, improving existing code, or fixing a bug, feel free to contribute by opening a pull request.
+I will be constantly updating references here as I use the sources:
+
+1. [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-Illustrated-Programmers-Curious/dp/1617292230)
+2. [Hackerrank](https://www.hackerrank.com/)
+
+---
+
+## Contribution ✨
+
+Contributions to this repository are welcome! Read how to contribute by clicking [here](https://github.com/jessrbl/Algoritmos-e-estruturas-de-dados/blob/main/CONTRIBUTING.md) and the [license](https://github.com/jessrbl/Algoritmos-e-estruturas-de-dados/blob/main/LICENSE). Together we will achieve amazing things!
 
 ---
 
 ## Status
 
-![In Development Badge](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=FF69B4&style=for-the-badge)
+![In Development Badge](https://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=FF69B4&style=for-the-badge)
 
 ---
 
